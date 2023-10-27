@@ -2,4 +2,4 @@
 
 WriteToDB - import CSV to DB
 
-ReadCSVData - read CSV with List<Map<String, String>()
+ReadCSVData - read CSV with list.map
